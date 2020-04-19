@@ -1,10 +1,6 @@
 <img src="header.png"/>
 
-# Deploy a high availability web app using Cloud Formation Script
-
-### Infrastructure Diagram
-
-<img src="Infrastructure Diagram.png"/>
+# Deploy a high availability web app using Cloud Formation
 
 ### Files and Functions
 
@@ -43,6 +39,9 @@ chmod +x update.sh
 ./update.sh <stack_name> server_securityGroups.yml server-params.json
 ```
 
+### Infrastructure Diagram
+
+<img src="Infrastructure Diagram.png"/>
 
 ### URLS
 
