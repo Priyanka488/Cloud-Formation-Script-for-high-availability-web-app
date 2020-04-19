@@ -1,4 +1,6 @@
-## Deploy a high availability web app using Cloud Formation Script
+<img src="header.png"/>
+
+# Deploy a high availability web app using Cloud Formation Script
 
 ### Infrastructure Diagram
 
